@@ -6,7 +6,7 @@ header h1 {
     font-weight: bold;
     color: khaki;
     text-align: center;
-    background-image: url("/P1-Arts&Crafts/resources/images/pattern.jpeg");
+    background-image: url("pattern.jpeg");
 
 }
 h3.title {
